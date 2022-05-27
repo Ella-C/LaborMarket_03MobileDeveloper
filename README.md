@@ -18,7 +18,7 @@
 
 ## 城市分布
 
-![roadmap](Rplot00_roadmap.jpg){width="661"}
+![roadmap](Rplot00_roadmap.jpg)
 
 ## 公司行业
 
